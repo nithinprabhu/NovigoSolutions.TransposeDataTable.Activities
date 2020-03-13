@@ -1,0 +1,10 @@
+D:\RPA Custom Activities\Projects\NovigoSolutions.DataTable.Activities\NovigoSolutions.TransposeDataTable.Activities\obj\Debug\NovigoSolutions.TransposeDataTable.Activities.csprojResolveAssemblyReference.cache
+D:\RPA Custom Activities\Projects\NovigoSolutions.DataTable.Activities\NovigoSolutions.TransposeDataTable.Activities\bin\Debug\NovigoSolutions.TransposeDataTable.Activities.dll
+D:\RPA Custom Activities\Projects\NovigoSolutions.DataTable.Activities\NovigoSolutions.TransposeDataTable.Activities\bin\Debug\NovigoSolutions.TransposeDataTable.Activities.pdb
+D:\RPA Custom Activities\Projects\NovigoSolutions.DataTable.Activities\NovigoSolutions.TransposeDataTable.Activities\obj\Debug\NovigoSolutions.TransposeDataTable.Activities.dll
+D:\RPA Custom Activities\Projects\NovigoSolutions.DataTable.Activities\NovigoSolutions.TransposeDataTable.Activities\obj\Debug\NovigoSolutions.TransposeDataTable.Activities.pdb
+D:\RPA Custom Activities\Projects\NovigoSolutions.TransposeDataTable.Activities\NovigoSolutions.TransposeDataTable.Activities\bin\Debug\NovigoSolutions.TransposeDataTable.Activities.dll
+D:\RPA Custom Activities\Projects\NovigoSolutions.TransposeDataTable.Activities\NovigoSolutions.TransposeDataTable.Activities\bin\Debug\NovigoSolutions.TransposeDataTable.Activities.pdb
+D:\RPA Custom Activities\Projects\NovigoSolutions.TransposeDataTable.Activities\NovigoSolutions.TransposeDataTable.Activities\obj\Debug\NovigoSolutions.TransposeDataTable.Activities.csprojResolveAssemblyReference.cache
+D:\RPA Custom Activities\Projects\NovigoSolutions.TransposeDataTable.Activities\NovigoSolutions.TransposeDataTable.Activities\obj\Debug\NovigoSolutions.TransposeDataTable.Activities.dll
+D:\RPA Custom Activities\Projects\NovigoSolutions.TransposeDataTable.Activities\NovigoSolutions.TransposeDataTable.Activities\obj\Debug\NovigoSolutions.TransposeDataTable.Activities.pdb
